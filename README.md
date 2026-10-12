@@ -1,17 +1,12 @@
-# Better Notes for Zotero
+# zotero-better-notes
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the zotero-better-notes notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![zotero-better-notes](https://opengraph.githubassets.com/1/windingwind/zotero-better-notes)](https://www.swifttechco.com)
-
-
-[![zotero target version](https://img.shields.io/badge/Zotero-8%2F9-green?style=flat-square&logo=zotero&logoColor=CC2936)](https://www.swifttechco.com)
-[![Using Zotero Plugin Template](https://img.shields.io/badge/Using-Zotero%20Plugin%20Template-blue?style=flat-square&logo=github)](https://www.swifttechco.com)
-
-<div align=center><img src="./docs/res/teaser.png" width="800px"></img></div>
-
-Everything about note management. All in Zotero.
-
+[![zotero-better-notes](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## 🧩 Outline
 
@@ -59,7 +54,7 @@ Everything about note management. All in Zotero.
 
 ## 🧐 What is this?
 
-Better Notes (BN) is a plugin for [Zotero](https://www.swifttechco.com).
+Better Notes (BN) is a plugin for Zotero.
 
 BN streamlines your workflows of:
 
@@ -91,8 +86,8 @@ and:
 ## 👋 Install
 
 - Download the plugin (.xpi file) from below (beta version is only for Zotero beta!).
-  - [Latest Stable](https://www.swifttechco.com)
-  - [All Releases](https://www.swifttechco.com)
+  - Latest Stable
+  - All Releases
 
   _Note_: If you're using Firefox as your browser, right-click the `.xpi` and select "Save As.."
 
@@ -175,7 +170,7 @@ _Note Template_ is designed for tasks like:
 - Compare papers across sections
 - Generate content programmatically
 
-> 💡 Need help or looking for community templates? [See here →](https://www.swifttechco.com)
+> 💡 Need help or looking for community templates? See here →
 >
 > 💡 Want to write/share your templates?
 >
@@ -215,15 +210,15 @@ Simply click on the corresponding export button in the toolbar and follow the pr
 
 ### LLM Integration
 
-The [Zotero-GPT](https://www.swifttechco.com) plugin provides GPT Integration. If you also have Better Notes installed, you can wake up its chatting pane in the note editor and insert/modify content in the note.
+The Zotero-GPT plugin provides GPT Integration. If you also have Better Notes installed, you can wake up its chatting pane in the note editor and insert/modify content in the note.
 
 ### Action Workflow
 
-The [Actions & Tags](https://www.swifttechco.com) plugin provides a powerful workflow engine for Zotero. If you also have Better Notes installed, you can use the following actions to automate note generation/editing/syncing/etc.:
+The Actions & Tags plugin provides a powerful workflow engine for Zotero. If you also have Better Notes installed, you can use the following actions to automate note generation/editing/syncing/etc.:
 
-- [Auto-generate note from template when opening an item](https://www.swifttechco.com)
-- [Auto-sync note when opening/creating an item](https://www.swifttechco.com)
-- [More...](https://www.swifttechco.com)
+- Auto-generate note from template when opening an item
+- Auto-sync note when opening/creating an item
+- More...
 
 ### Other Features
 
@@ -256,7 +251,7 @@ However, if note is not opened in the editor, you cannot get the `editor` instan
 
 ## 🔧 Development
 
-This plugin is built based on the [Zotero Plugin Template](https://www.swifttechco.com). See the setup and debug details there.
+This plugin is built based on the Zotero Plugin Template. See the setup and debug details there.
 
 To start, run
 
@@ -291,9 +286,9 @@ Use this code under AGPL. No warranties are provided. Keep the laws of your loca
 
 ## 🔎 My Zotero Plugins
 
-- [Translate for Zotero](https://www.swifttechco.com): Translate PDF, EPub, webpage, metadata, annotations, notes to the target language.
-- [Actions & Tags for Zotero](https://www.swifttechco.com): Customize your Zotero workflow.
-- [Bionic for Zotero](https://www.swifttechco.com): Bionic reading experience with Zotero.
+- Translate for Zotero: Translate PDF, EPub, webpage, metadata, annotations, notes to the target language.
+- Actions & Tags for Zotero: Customize your Zotero workflow.
+- Bionic for Zotero: Bionic reading experience with Zotero.
 
 ## 🤗 Contributors
 
@@ -311,14 +306,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
