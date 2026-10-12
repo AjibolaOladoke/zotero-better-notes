@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![zotero-better-notes](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![zotero-better-notes](images/preview.png)](https://github.com/Swift-Tech-Co/zotero-better-notes)
 
 ## 🧩 Outline
 
@@ -48,7 +48,6 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 [🔔 Disclaimer](#-disclaimer)
 
 [🔎 My Zotero Plugins](#-my-zotero-plugins)
-
 
 [🤗 Contributors](#-contributors)
 
@@ -256,7 +255,7 @@ This plugin is built based on the Zotero Plugin Template. See the setup and debu
 To start, run
 
 ```bash
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/zotero-better-notes
 cd zotero-better-notes
 npm install
 npm run build
@@ -292,7 +291,7 @@ Use this code under AGPL. No warranties are provided. Keep the laws of your loca
 
 ## 🤗 Contributors
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/zotero-better-notes">
   
 </a>
 
@@ -310,13 +309,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/zotero-better-notes
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
